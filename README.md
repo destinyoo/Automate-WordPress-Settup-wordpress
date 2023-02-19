@@ -1,4 +1,4 @@
-         <h1>WordPress Vagrant Development Environment</h1>
+<h1>WordPress Vagrant Development Environment</h1>
 <p>
 This project sets up a local development environment for WordPress using Vagrant and VirtualBox. The environment includes a Ubuntu 18.04 server with Apache, MySQL, and PHP installed, along with the latest version of WordPress.
 </p>
