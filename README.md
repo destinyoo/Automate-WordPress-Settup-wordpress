@@ -1,4 +1,4 @@
-<h1>WordPress Vagrant Development Environment</h1>
+         <h1>WordPress Vagrant Development Environment</h1>
 <p>
 This project sets up a local development environment for WordPress using Vagrant and VirtualBox. The environment includes a Ubuntu 18.04 server with Apache, MySQL, and PHP installed, along with the latest version of WordPress.
 </p>
@@ -32,5 +32,4 @@ Password: your password</li>
 <li>Check the Vagrant logs for error messages.</li>
 <li>If all else fails, you can destroy the virtual machine by running the vagrant destroy command and then start over from step 3 in the "Getting Started" section.</li>
 </ul>
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
+
